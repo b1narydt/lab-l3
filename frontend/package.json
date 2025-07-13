@@ -13,6 +13,7 @@
     "license": "ISC",
     "dependencies": {
       "@bsv/sdk": "^1.5.2",
+      "@bsv/p2p": "^1.1.1",
       "react": "^19.1.0",
       "react-dom": "^19.1.0"
     },

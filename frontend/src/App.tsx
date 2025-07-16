@@ -5,7 +5,7 @@ import {
   sendMessage,
   listMessages,
   acknowledgeMessages
-} from './MessageBoxClient'
+} from './messageBoxClient'
 
 // Define the structure of a PeerMessage
 interface PeerMessage {

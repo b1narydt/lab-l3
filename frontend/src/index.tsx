@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.js'
-import { initializeClient } from './MessageBoxClient'
+import { initializeClient } from './messageBoxClient'
 
 // Initialize the MessageBoxClient when the app starts
 initializeClient()
